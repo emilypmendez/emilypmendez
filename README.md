@@ -1,6 +1,6 @@
 # Hello, World! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="21"> Learn About Me
 
-<a href="https://www.linkedin.com/in/emilypmendez/"><img src="https://github.com/emilypmendez/aboutme/blob/main/spaceapps2018.JPG" align="right" height="300"></a>
+<a href="https://www.linkedin.com/in/emilypmendez/"><img src="https://github.com/emilypmendez/aboutme/blob/main/assets/spaceapps2018.JPG" align="right" height="300"></a>
 
 <h3><i><a href="https://emilypmendez.com/">Click here to view my digital portfolio built with React.</a></i></h3>
 
