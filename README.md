@@ -87,10 +87,10 @@ I am always looking to contribute to projects with significant social impact. I 
 
 # Get In Touch / Support Me with coffee or books!
 
-<a href="https://www.linkedin.com/in/emilypmendez/"><img height="30" src="https://github.com/emilypmendez/aboutme/blob/main/linkedin.png"></a>&nbsp;&nbsp; <a href="https://twitter.com/emilypmendez"><img height="30" src="https://github.com/emilypmendez/aboutme/blob/main/twitter.png"></a>&nbsp;&nbsp;
-<a href="https://g.dev/emilypmendez"><img height="30" src="https://github.com/emilypmendez/aboutme/blob/main/googledev.png"></a>
-<a href="https://github.com/emilypmendez/aboutme/blob/main/EPM%20-%20Software%20Developer%20Resume%202022.pdf"><img height="30" src="https://github.com/emilypmendez/aboutme/blob/main/resume.png"></a>&nbsp;&nbsp;
-<a href="mailto:emilypmendez@gmail.com"><img height="30" src="https://github.com/emilypmendez/aboutme/blob/main/email.png"></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/emilypmendez/"><img height="30" src="https://github.com/emilypmendez/aboutme/blob/main/assets/linkedin.png"></a>&nbsp;&nbsp; <a href="https://twitter.com/emilypmendez"><img height="30" src="https://github.com/emilypmendez/aboutme/blob/main/assets/twitter.png"></a>&nbsp;&nbsp;
+<a href="https://g.dev/emilypmendez"><img height="30" src="https://github.com/emilypmendez/aboutme/blob/main/assets/googledev.png"></a>
+<a href="https://github.com/emilypmendez/aboutme/blob/main/assets/EPM%20-%20Software%20Developer%20Resume%202022.pdf"><img height="30" src="https://github.com/emilypmendez/aboutme/blob/main/assets/resume.png"></a>&nbsp;&nbsp;
+<a href="mailto:emilypmendez@gmail.com"><img height="30" src="https://github.com/emilypmendez/aboutme/blob/main/assets/email.png"></a>&nbsp;&nbsp;
 
 Feel free to send me a message if you decide to buy me a book or coffee! 🙌
 
