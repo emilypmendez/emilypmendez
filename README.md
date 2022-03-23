@@ -6,7 +6,7 @@
 
 A developer and musician by passion, an engineer by profession and a lifetime student by independent research.
 
-I am always looking to contribute to projects with significant social impact. I am passionate about using Javascript and Animation Libraries to create awesome user experiences. You can typically find me reading, listening to music, or exploring the internet!
+I am always looking to contribute to projects with significant social impact. I am passionate about using Javascript to create awesome user experiences. You can typically find me reading, listening to music, or exploring the internet!
 
  # My "Most Proud" Achievements (So Far...)
 - Grand Prize Winner at Blackstone IDEAS Competition
@@ -17,7 +17,7 @@ I am always looking to contribute to projects with significant social impact. I 
   - Finished in Top 10 out of 250 abstracts nationwide
 - NASA Space Apps Challenge Facilitator
   - Facilitated for two consecutive years with a non-profit organization
-  - Earned status of Main Stage City to an audience of 40+ million viewers
+  - Earned status of Main Stage City to an audience of 48+ million viewers
 - Director of Women Who Code
   - Nominated to become a volunteer Director status
   - Grew the community to over 500 technologists in the area
@@ -29,32 +29,32 @@ I am always looking to contribute to projects with significant social impact. I 
 
 <table>
   <tr>
-    <th>Course</th>
+    <th>Major Concentration</th>
+    <th>Minor Concentration</th>
     <th>School/University</th>
     <th>Graduation Year</th>
-    <th>Score</th>
-   <th>Concentration</th>
+    <th>Scoring</th>
   </tr>
   <tr>
     <td>PhD in Computer Science</td>
+    <td><em>Pending</em></td>
     <td><a href="https://lehman.edu/">CUNY Lehman College</a></td>
     <td><em>Pending</em></td>
     <td><em>Pending</em></td>
-   <td>CompSci</td>
   </tr>
   <tr>
     <td>M.B.A. in Computer Science</td>
+    <td><em>Pending</em></td>
     <td><a href="https://lehman.edu/">CUNY Lehman College</a></td>
     <td><em>Pending</em></td>
     <td><em>Pending</em></td>
-   <td>CompSci</td>
   </tr>
   <tr>
     <td>B.A. in Computer Science</td>
+    <td>Finance</td>
     <td><a href="https://lehman.edu/">CUNY Lehman College</a></td>
     <td>Ongoing</td>
     <td>4.0 GPA (Current)</td>
-   <td>Finance</td>
   </tr>
  </table>
 
@@ -98,6 +98,7 @@ I am always looking to contribute to projects with significant social impact. I 
 
 Feel free to send me a message if you decide to buy me a book or coffee! 🙌
 
-<a href="https://www.buymeacoffee.com/emilypmendez"><img height="40" src="https://img.buymeacoffee.com/button-api/?text=Buy me a book or coffee&emoji=📖&slug=emilypmendez&button_colour=FFDD00&font_colour=000000&font_family=Arial&outline_colour=000000&coffee_colour=ffffff"></a> 
+<a href="https://www.buymeacoffee.com/emilypmendez">☕ Buy me a coffee!</a>
+<a href="https://www.buymeacoffee.com/emilypmendez">📚 Buy me a book!</a>
 
 ![ViewCount](https://views.whatilearened.today/views/github/emilypmendez/views.svg) 
