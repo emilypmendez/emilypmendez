@@ -33,24 +33,28 @@ I am always looking to contribute to projects with significant social impact. I 
     <th>School/University</th>
     <th>Graduation Year</th>
     <th>Score</th>
+   <th>Concentration</th>
   </tr>
   <tr>
     <td>PhD in Computer Science</td>
     <td><a href="https://lehman.edu/">CUNY Lehman College</a></td>
     <td><em>Pending</em></td>
     <td><em>Pending</em></td>
+   <td>CompSci</td>
   </tr>
   <tr>
     <td>M.B.A. in Computer Science</td>
     <td><a href="https://lehman.edu/">CUNY Lehman College</a></td>
     <td><em>Pending</em></td>
     <td><em>Pending</em></td>
+   <td>CompSci</td>
   </tr>
   <tr>
     <td>B.A. in Computer Science</td>
     <td><a href="https://lehman.edu/">CUNY Lehman College</a></td>
     <td>Ongoing</td>
     <td>4.0 GPA (Current)</td>
+   <td>Finance</td>
   </tr>
  </table>
 
