@@ -4,7 +4,7 @@
 
 <h3><i><a href="https://emilypmendez.com/">Click here to view my digital portfolio built with React.</a></i></h3>
 
-A developer and musician by passion, an engineer by profession and a lifetime student by independent research.
+A musician by passion, an engineer by profession, and a lifetime student by independent research.
 
 I am always looking to contribute to projects with significant social impact. I am passionate about using Javascript to create awesome user experiences. You can typically find me reading, listening to music, or exploring the internet!
 
