@@ -4,9 +4,9 @@
 
 <h3><i><a href="https://emilypmendez.com/">Click here to view my digital portfolio built with React.</a></i></h3>
 
-A musician by passion, an engineer by profession, and a lifetime student by independent research.
+A musician by passion, an engineer by profession, and a lifetime learner.
 
-I am always looking to contribute to projects with significant social impact. I am passionate about using Javascript to create awesome user experiences. You can typically find me reading, listening to music, or exploring the internet!
+I am always looking to contribute to projects with significant social impact. I am passionate about using technology to create awesome user experiences. You can typically find me reading, listening to music, or exploring the internet!
 
  # My "Most Proud" Achievements (So Far...)
 - Grand Prize Winner at Blackstone IDEAS Competition
@@ -30,31 +30,18 @@ I am always looking to contribute to projects with significant social impact. I 
 <table>
   <tr>
     <th>Major Concentration</th>
-    <th>Minor Concentration</th>
     <th>School/University</th>
     <th>Graduation Year</th>
-    <th>Scoring</th>
   </tr>
   <tr>
-    <td>PhD in Computer Science</td>
-    <td><em>Pending</em></td>
-    <td><a href="https://lehman.edu/">CUNY Lehman College</a></td>
-    <td><em>Pending</em></td>
-    <td><em>Pending</em></td>
-  </tr>
-  <tr>
-    <td>M.B.A. in Computer Science</td>
-    <td><em>Pending</em></td>
-    <td><a href="https://lehman.edu/">CUNY Lehman College</a></td>
-    <td><em>Pending</em></td>
-    <td><em>Pending</em></td>
+    <td>M.S. in Information Systems</td>
+    <td><a href="https://www.baruch.cuny.edu/">Baruch College</a></td>
+    <td>Ongoing</td>
   </tr>
   <tr>
     <td>B.A. in Computer Science</td>
-    <td>Finance</td>
     <td><a href="https://lehman.edu/">CUNY Lehman College</a></td>
-    <td>Ongoing</td>
-    <td>4.0 GPA (Current)</td>
+    <td>2025</td>
   </tr>
  </table>
 
@@ -66,14 +53,12 @@ I am always looking to contribute to projects with significant social impact. I 
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=emilypmendez&theme=default) 
 
-![trophy](https://github-profile-trophy.vercel.app/?username=emilypmendez&title=Commit,Stars,Repositories,PullRequest,Followers&theme=default)
-
 
 ## Skills
 
 ### Front End
 
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img  src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"> <img  src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> <img  src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"> <img  src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"> <img src="https://img.shields.io/badge/Vue-9FC037?style=for-the-badge&logo=vuejs&logoColor=white">
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img  src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"> <img  src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> <img  src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"> <img  src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
 
 ### Back End
 
@@ -85,7 +70,7 @@ I am always looking to contribute to projects with significant social impact. I 
 
 
 ### Graphics and Prototyping
-<img src="https://img.shields.io/badge/Photoshop-30A8FF?style=for-the-badge&logo=adobe&logoColor=001E36"><img src="https://img.shields.io/badge/Illustrator-F79500?style=for-the-badge&logo=adobe&logoColor=310000"> <img src="https://img.shields.io/badge/figma-19B2F1?style=for-the-badge&logo=figma&logoColor=000000"> 
+<img src="https://img.shields.io/badge/figma-19B2F1?style=for-the-badge&logo=figma&logoColor=000000"> 
 
 -----------------------------------------------------------------------
 
@@ -93,12 +78,11 @@ I am always looking to contribute to projects with significant social impact. I 
 
 <a href="https://www.linkedin.com/in/emilypmendez/"><img height="30" src="https://github.com/emilypmendez/aboutme/blob/main/assets/linkedin.png"></a>&nbsp;&nbsp; <a href="https://twitter.com/emilypmendez"><img height="30" src="https://github.com/emilypmendez/aboutme/blob/main/assets/twitter.png"></a>&nbsp;&nbsp;
 <a href="https://g.dev/emilypmendez"><img height="30" src="https://github.com/emilypmendez/aboutme/blob/main/assets/googledev.png"></a>
-<a href="https://github.com/emilypmendez/aboutme/blob/main/assets/EPM%20-%20Software%20Developer%20Resume%202022.pdf"><img height="30" src="https://github.com/emilypmendez/aboutme/blob/main/assets/resume.png"></a>&nbsp;&nbsp;
+<a href="#"><img height="30" src="https://github.com/emilypmendez/aboutme/blob/main/assets/resume.png"></a>&nbsp;&nbsp;
 <a href="mailto:emilypmendez@gmail.com"><img height="30" src="https://github.com/emilypmendez/aboutme/blob/main/assets/email.png"></a>&nbsp;&nbsp;
 
-Feel free to send me a message if you decide to buy me a book or coffee! 🙌
+Feel free to send a message! 🙌
 
 <a href="https://www.buymeacoffee.com/emilypmendez">☕ Buy me a coffee!</a>
-<a href="https://www.buymeacoffee.com/emilypmendez">📚 Buy me a book!</a>
 
 ![ViewCount](https://views.whatilearened.today/views/github/emilypmendez/views.svg) 
